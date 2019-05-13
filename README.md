@@ -23,7 +23,7 @@ K aplikácií je potrebné urobiť návod na spustenie na inom PC. Návod by mal
 iný vývojár na svojom PC a vytvorí mu celú štruktúru databázy, **miesto**, kde je uložená cesta k databáze a prípadne
 ďalšie potrebné informácie pre spustenie.
 
-Zdrojový kód musí dodržiavať štandardné konvencie jazyka C# a jednotlivé vrstvy musia byť oddelené(GUI, logická, dátová).
+Zdrojový kód musí dodržiavať štandardné konvencie jazyka C# a jednotlivé vrstvy musia byť oddelené (GUI, logická, dátová).
 
 **Bonus:** Vykresľujte aktuálnu štruktúru organizácie do GUI.
 
